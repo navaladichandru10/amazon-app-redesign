@@ -5,7 +5,7 @@ This repo contains the structural front-end idea for a redesigned Amazon mobile 
 ## 🚀 What’s Included
 - 🧠 UX research & personas
 - 🗺️ IA + User flow
-- 🎨 13 redesigned screens
+- 🎨 14 redesigned screens
 - 🗂️ Features: Wishlist grouping, Live Track Order, Rufus AI support
 
 ## 🛠️ Tech Stack Suggestion
